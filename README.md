@@ -4,7 +4,7 @@
 
 # Think Tank
 
-![alt icon]()
+![alt icon](https://raw.githubusercontent.com/WilliamLQin/Think-Tank/master/Think%20Tank%201.png)
 
 Train your concentration and lose yourself in this immersive telepathic co-op tank game!
 <br>
