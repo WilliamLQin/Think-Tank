@@ -82,7 +82,9 @@ Open the "Main" scene in Scenes/Main.scene. <br>
 Press play and begin using the Muse headbands to control the tank! <br>
 
 The first Muse headband will control the movement of the tank. <br>
+Focus and concentrate to move the tank forward and clench your jaw to turn the tank clockwise. <br>
 The second Muse headband will control the gun of the tank. <br>
+Focus and concentrate to charge the weapon and clench your jaw to release the projectile. <br>
 
 ## Troubleshooting
 
