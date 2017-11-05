@@ -22,7 +22,7 @@ Requires Muse headband 2014 model, Muse-IO is not supported by Muse headband 201
 
 ## Minimum Requirements
 
-* Two Muse headbands
+* Two 2014 Muse headbands (no icon on power switch)
 * Bluetooth for communicating with Muse headband
 
 ## Getting Started
